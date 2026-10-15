@@ -3,12 +3,16 @@
 Hands Up / Dancecore 向けのボイスサンプル集です。101 個の WAV を無料で配布しています。
 Free voice sample pack for Hands Up / Dancecore — 101 WAV files.
 
+この音声は、商用利用が認められている **Suno の有料プラン**で生成したものです。
+Generated with **Suno on a paid plan** (which permits commercial use).
+
 ## ⬇ ダウンロード / Download
 
 **[Sound-Artz-Voice-Samples.zip](https://github.com/soundartzix-netizen/voice-samples/releases/latest/download/Sound-Artz-Voice-Samples.zip)**（43 MB・ログイン不要 / no sign-in）
 
 ## 利用規約 / Terms of use
 
+- Suno（有料プラン）で生成した音声です
 - 個人・商用を問わず、無料で使えます（楽曲・動画・配信・ゲームなど）
 - クレジット表記は任意です。「Voice: Sound Artz」と書いていただけるとうれしいです
 - 加工・切り貼り・再配布も自由です
